@@ -8,5 +8,5 @@ hehe
 - run `python process.py`
 - run `python train.py`
 
-dah
+dah kelarrr yey 😭
 
